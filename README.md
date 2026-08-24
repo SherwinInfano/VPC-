@@ -1,7 +1,7 @@
 ### DEPLOYMENT AND CONFIGURATION OF A PRIVATE CLOUD IN AWS
 
-## NAME: ABISHEIK R
-## REGISTER NO: 212223040005
+## NAME: A. Sherwin Infano
+## REGISTER NO: 21224040312
 
 # AIM:
 This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
